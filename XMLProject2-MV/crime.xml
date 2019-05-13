@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Source: Statistics Canada, CANSIM table 252-0051 and Catalogue no. 85-002-X. -->
+<crime-in-canada year="2013">
+    <region name="Canada">
+        <population-millions>35.1543</population-millions>
+        <crime type="all violations" incidents="2098302" />
+        <crime type="all criminal code violations (including traffic)" incidents="1961195" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="1824837" />
+        <crime type="violent criminal code violations" incidents="383945" />
+        <crime type="homicide" incidents="505" />
+        <crime type="attempted murder" incidents="642" />
+        <crime type="sexual assault" incidents="21311" />
+        <crime type="assault" incidents="219392" />
+        <crime type="robbery" incidents="23213" />
+        <crime type="criminal harassment" incidents="21555" />
+        <crime type="uttering threats" incidents="63970" />
+        <crime type="other violent violations" incidents="33357" />
+        <crime type="property crime violations" incidents="1106093" />
+        <crime type="breaking and entering" incidents="156357" />
+        <crime type="theft of motor vehicle" incidents="72804" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="14339" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="471924" />
+        <crime type="mischief" incidents="273479" />
+        <crime type="other property crime violations" incidents="117190" />
+        <crime type="other criminal code violations" incidents="334799" />
+        <crime type="disturb the peace" incidents="109830" />
+        <crime type="administration of justice violations" incidents="176431" />
+        <crime type="other violations" incidents="48538" />
+        <crime type="criminal code traffic violations" incidents="136358" />
+        <crime type="impaired driving" incidents="78391" />
+        <crime type="other criminal code traffic violations" incidents="57967" />
+        <crime type="federal statute violations" incidents="137107" />
+        <crime type="drug violations" incidents="109057" />
+        <crime type="other federal statutes" incidents="28050" />
+    </region>
+    <region name="Newfoundland &amp; Labrador">
+        <population-millions>0.5282</population-millions>
+        <crime type="all violations" incidents="35166" />
+        <crime type="all criminal code violations (including traffic)" incidents="33426" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="31364" />
+        <crime type="violent criminal code violations" incidents="7329" />
+        <crime type="homicide" incidents="7" />
+        <crime type="attempted murder" incidents="1" />
+        <crime type="sexual assault" incidents="311" />
+        <crime type="assault" incidents="4222" />
+        <crime type="robbery" incidents="142" />
+        <crime type="criminal harassment" incidents="274" />
+        <crime type="uttering threats" incidents="1897" />
+        <crime type="other violent violations" incidents="475" />
+        <crime type="property crime violations" incidents="18761" />
+        <crime type="breaking and entering" incidents="2706" />
+        <crime type="theft of motor vehicle" incidents="514" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="245" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="6533" />
+        <crime type="mischief" incidents="7336" />
+        <crime type="other property crime violations" incidents="1427" />
+        <crime type="other criminal code violations" incidents="5274" />
+        <crime type="disturb the peace" incidents="1885" />
+        <crime type="administration of justice violations" incidents="2420" />
+        <crime type="other violations" incidents="969" />
+        <crime type="criminal code traffic violations" incidents="2062" />
+        <crime type="impaired driving" incidents="1726" />
+        <crime type="other criminal code traffic violations" incidents="336" />
+        <crime type="federal statute violations" incidents="1740" />
+        <crime type="drug violations" incidents="1436" />
+        <crime type="other federal statutes" incidents="304" />
+    </region>
+    <region name="Prince Edward Island">
+        <population-millions>0.1455</population-millions>
+        <crime type="all violations" incidents="9454" />
+        <crime type="all criminal code violations (including traffic)" incidents="9098" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="8502" />
+        <crime type="violent criminal code violations" incidents="1382" />
+        <crime type="homicide" incidents="1" />
+        <crime type="attempted murder" incidents="0" />
+        <crime type="sexual assault" incidents="85" />
+        <crime type="assault" incidents="732" />
+        <crime type="robbery" incidents="23" />
+        <crime type="criminal harassment" incidents="74" />
+        <crime type="uttering threats" incidents="242" />
+        <crime type="other violent violations" incidents="225" />
+        <crime type="property crime violations" incidents="6184" />
+        <crime type="breaking and entering" incidents="646" />
+        <crime type="theft of motor vehicle" incidents="120" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="29" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="3304" />
+        <crime type="mischief" incidents="1514" />
+        <crime type="other property crime violations" incidents="571" />
+        <crime type="other criminal code violations" incidents="936" />
+        <crime type="disturb the peace" incidents="381" />
+        <crime type="administration of justice violations" incidents="365" />
+        <crime type="other violations" incidents="190" />
+        <crime type="criminal code traffic violations" incidents="596" />
+        <crime type="impaired driving" incidents="446" />
+        <crime type="other criminal code traffic violations" incidents="150" />
+        <crime type="federal statute violations" incidents="356" />
+        <crime type="drug violations" incidents="266" />
+        <crime type="other federal statutes" incidents="90" />
+    </region>
+    <region name="Nova Scotia">
+        <population-millions>0.9429</population-millions>
+        <crime type="all violations" incidents="60216" />
+        <crime type="all criminal code violations (including traffic)" incidents="56520" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="52982" />
+        <crime type="violent criminal code violations" incidents="11584" />
+        <crime type="homicide" incidents="13" />
+        <crime type="attempted murder" incidents="63" />
+        <crime type="sexual assault" incidents="647" />
+        <crime type="assault" incidents="6094" />
+        <crime type="robbery" incidents="336" />
+        <crime type="criminal harassment" incidents="530" />
+        <crime type="uttering threats" incidents="2541" />
+        <crime type="other violent violations" incidents="1360" />
+        <crime type="property crime violations" incidents="32625" />
+        <crime type="breaking and entering" incidents="4070" />
+        <crime type="theft of motor vehicle" incidents="1075" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="230" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="14392" />
+        <crime type="mischief" incidents="9161" />
+        <crime type="other property crime violations" incidents="3697" />
+        <crime type="other criminal code violations" incidents="8773" />
+        <crime type="disturb the peace" incidents="1891" />
+        <crime type="administration of justice violations" incidents="5021" />
+        <crime type="other violations" incidents="1861" />
+        <crime type="criminal code traffic violations" incidents="3538" />
+        <crime type="impaired driving" incidents="2875" />
+        <crime type="other criminal code traffic violations" incidents="663" />
+        <crime type="federal statute violations" incidents="3696" />
+        <crime type="drug violations" incidents="3059" />
+        <crime type="other federal statutes" incidents="637" />
+    </region>
+    <region name="New Brunswick">
+        <population-millions>0.7556</population-millions>
+        <crime type="all violations" incidents="41156" />
+        <crime type="all criminal code violations (including traffic)" incidents="38887" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="36387" />
+        <crime type="violent criminal code violations" incidents="9314" />
+        <crime type="homicide" incidents="7" />
+        <crime type="attempted murder" incidents="15" />
+        <crime type="sexual assault" incidents="454" />
+        <crime type="assault" incidents="4984" />
+        <crime type="robbery" incidents="176" />
+        <crime type="criminal harassment" incidents="588" />
+        <crime type="uttering threats" incidents="2127" />
+        <crime type="other violent violations" incidents="963" />
+        <crime type="property crime violations" incidents="21450" />
+        <crime type="breaking and entering" incidents="3065" />
+        <crime type="theft of motor vehicle" incidents="1037" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="219" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="8746" />
+        <crime type="mischief" incidents="5978" />
+        <crime type="other property crime violations" incidents="2402" />
+        <crime type="other criminal code violations" incidents="5623" />
+        <crime type="disturb the peace" incidents="1395" />
+        <crime type="administration of justice violations" incidents="2671" />
+        <crime type="other violations" incidents="1557" />
+        <crime type="criminal code traffic violations" incidents="2500" />
+        <crime type="impaired driving" incidents="1868" />
+        <crime type="other criminal code traffic violations" incidents="632" />
+        <crime type="federal statute violations" incidents="2269" />
+        <crime type="drug violations" incidents="1780" />
+        <crime type="other federal statutes" incidents="489" />
+    </region>
+    <region name="Quebec">
+        <population-millions>8.1540</population-millions>
+        <crime type="all violations" incidents="383252" />
+        <crime type="all criminal code violations (including traffic)" incidents="357171" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="314841" />
+        <crime type="violent criminal code violations" incidents="79891" />
+        <crime type="homicide" incidents="68" />
+        <crime type="attempted murder" incidents="163" />
+        <crime type="sexual assault" incidents="3983" />
+        <crime type="assault" incidents="42760" />
+        <crime type="robbery" incidents="4846" />
+        <crime type="criminal harassment" incidents="4859" />
+        <crime type="uttering threats" incidents="15934" />
+        <crime type="other violent violations" incidents="7278" />
+        <crime type="property crime violations" incidents="191005" />
+        <crime type="breaking and entering" incidents="39247" />
+        <crime type="theft of motor vehicle" incidents="17766" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="3896" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="74824" />
+        <crime type="mischief" incidents="34093" />
+        <crime type="other property crime violations" incidents="21179" />
+        <crime type="other criminal code violations" incidents="43945" />
+        <crime type="disturb the peace" incidents="458" />
+        <crime type="administration of justice violations" incidents="36743" />
+        <crime type="other violations" incidents="6744" />
+        <crime type="criminal code traffic violations" incidents="42330" />
+        <crime type="impaired driving" incidents="15583" />
+        <crime type="other criminal code traffic violations" incidents="26747" />
+        <crime type="federal statute violations" incidents="26081" />
+        <crime type="drug violations" incidents="22575" />
+        <crime type="other federal statutes" incidents="3506" />
+    </region>
+    <region name="Ontario">
+        <population-millions>13.5509</population-millions>
+        <crime type="all violations" incidents="567057" />
+        <crime type="all criminal code violations (including traffic)" incidents="529294" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="497939" />
+        <crime type="violent criminal code violations" incidents="112802" />
+        <crime type="homicide" incidents="166" />
+        <crime type="attempted murder" incidents="201" />
+        <crime type="sexual assault" incidents="7677" />
+        <crime type="assault" incidents="63067" />
+        <crime type="robbery" incidents="8912" />
+        <crime type="criminal harassment" incidents="9365" />
+        <crime type="uttering threats" incidents="15196" />
+        <crime type="other violent violations" incidents="8218" />
+        <crime type="property crime violations" incidents="319636" />
+        <crime type="breaking and entering" incidents="42096" />
+        <crime type="theft of motor vehicle" incidents="16410" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="4148" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="159823" />
+        <crime type="mischief" incidents="57887" />
+        <crime type="other property crime violations" incidents="39272" />
+        <crime type="other criminal code violations" incidents="65501" />
+        <crime type="disturb the peace" incidents="7493" />
+        <crime type="administration of justice violations" incidents="45273" />
+        <crime type="other violations" incidents="12735" />
+        <crime type="criminal code traffic violations" incidents="31355" />
+        <crime type="impaired driving" incidents="15806" />
+        <crime type="other criminal code traffic violations" incidents="15549" />
+        <crime type="federal statute violations" incidents="37763" />
+        <crime type="drug violations" incidents="31434" />
+        <crime type="other federal statutes" incidents="6329" />
+    </region>
+    <region name="Manitoba">
+        <population-millions>1.2654</population-millions>
+        <crime type="all violations" incidents="110370" />
+        <crime type="all criminal code violations (including traffic)" incidents="105204" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="100789" />
+        <crime type="violent criminal code violations" incidents="23230" />
+        <crime type="homicide" incidents="49" />
+        <crime type="attempted murder" incidents="29" />
+        <crime type="sexual assault" incidents="1379" />
+        <crime type="assault" incidents="14638" />
+        <crime type="robbery" incidents="1647" />
+        <crime type="criminal harassment" incidents="364" />
+        <crime type="uttering threats" incidents="3514" />
+        <crime type="other violent violations" incidents="1610" />
+        <crime type="property crime violations" incidents="54371" />
+        <crime type="breaking and entering" incidents="7832" />
+        <crime type="theft of motor vehicle" incidents="3631" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="374" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="16076" />
+        <crime type="mischief" incidents="22670" />
+        <crime type="other property crime violations" incidents="3788" />
+        <crime type="other criminal code violations" incidents="23188" />
+        <crime type="disturb the peace" incidents="10277" />
+        <crime type="administration of justice violations" incidents="10729" />
+        <crime type="other violations" incidents="2182" />
+        <crime type="criminal code traffic violations" incidents="4415" />
+        <crime type="impaired driving" incidents="3337" />
+        <crime type="other criminal code traffic violations" incidents="1078" />
+        <crime type="federal statute violations" incidents="5166" />
+        <crime type="drug violations" incidents="3604" />
+        <crime type="other federal statutes" incidents="1562" />
+    </region>
+    <region name="Saskatchewan">
+        <population-millions>1.1062</population-millions>
+        <crime type="all violations" incidents="138282" />
+        <crime type="all criminal code violations (including traffic)" incidents="128508" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="117965" />
+        <crime type="violent criminal code violations" incidents="21848" />
+        <crime type="homicide" incidents="30" />
+        <crime type="attempted murder" incidents="26" />
+        <crime type="sexual assault" incidents="1049" />
+        <crime type="assault" incidents="14779" />
+        <crime type="robbery" incidents="867" />
+        <crime type="criminal harassment" incidents="539" />
+        <crime type="uttering threats" incidents="2941" />
+        <crime type="other violent violations" incidents="1617" />
+        <crime type="property crime violations" incidents="62875" />
+        <crime type="breaking and entering" incidents="7559" />
+        <crime type="theft of motor vehicle" incidents="4274" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="516" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="17311" />
+        <crime type="mischief" incidents="27262" />
+        <crime type="other property crime violations" incidents="5953" />
+        <crime type="other criminal code violations" incidents="33242" />
+        <crime type="disturb the peace" incidents="6965" />
+        <crime type="administration of justice violations" incidents="22836" />
+        <crime type="other violations" incidents="3441" />
+        <crime type="criminal code traffic violations" incidents="10543" />
+        <crime type="impaired driving" incidents="7041" />
+        <crime type="other criminal code traffic violations" incidents="3502" />
+        <crime type="federal statute violations" incidents="9774" />
+        <crime type="drug violations" incidents="5426" />
+        <crime type="other federal statutes" incidents="4348" />
+    </region>
+    <region name="Alberta">
+        <population-millions>4.0072</population-millions>
+        <crime type="all violations" incidents="316777" />
+        <crime type="all criminal code violations (including traffic)" incidents="302570" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="282467" />
+        <crime type="violent criminal code violations" incidents="50935" />
+        <crime type="homicide" incidents="82" />
+        <crime type="attempted murder" incidents="48" />
+        <crime type="sexual assault" incidents="2744" />
+        <crime type="assault" incidents="30766" />
+        <crime type="robbery" incidents="2625" />
+        <crime type="criminal harassment" incidents="2252" />
+        <crime type="uttering threats" incidents="7625" />
+        <crime type="other violent violations" incidents="4793" />
+        <crime type="property crime violations" incidents="171289" />
+        <crime type="breaking and entering" incidents="19263" />
+        <crime type="theft of motor vehicle" incidents="15903" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="2267" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="65191" />
+        <crime type="mischief" incidents="49413" />
+        <crime type="other property crime violations" incidents="19252" />
+        <crime type="other criminal code violations" incidents="60243" />
+        <crime type="disturb the peace" incidents="22167" />
+        <crime type="administration of justice violations" incidents="31203" />
+        <crime type="other violations" incidents="6873" />
+        <crime type="criminal code traffic violations" incidents="20103" />
+        <crime type="impaired driving" incidents="14662" />
+        <crime type="other criminal code traffic violations" incidents="5441" />
+        <crime type="federal statute violations" incidents="14207" />
+        <crime type="drug violations" incidents="11950" />
+        <crime type="other federal statutes" incidents="2257" />
+    </region>
+    <region name="British Columbia">
+        <population-millions>4.5826</population-millions>
+        <crime type="all violations" incidents="393709" />
+        <crime type="all criminal code violations (including traffic)" incidents="359033" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="341532" />
+        <crime type="violent criminal code violations" incidents="57806" />
+        <crime type="homicide" incidents="76" />
+        <crime type="attempted murder" incidents="90" />
+        <crime type="sexual assault" incidents="2554" />
+        <crime type="assault" incidents="32040" />
+        <crime type="robbery" incidents="3600" />
+        <crime type="criminal harassment" incidents="2550" />
+        <crime type="uttering threats" incidents="10744" />
+        <crime type="other violent violations" incidents="6152" />
+        <crime type="property crime violations" incidents="209285" />
+        <crime type="breaking and entering" incidents="28458" />
+        <crime type="theft of motor vehicle" incidents="11583" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="2350" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="103416" />
+        <crime type="mischief" incidents="44320" />
+        <crime type="other property crime violations" incidents="19158" />
+        <crime type="other criminal code violations" incidents="74441" />
+        <crime type="disturb the peace" incidents="46713" />
+        <crime type="administration of justice violations" incidents="16333" />
+        <crime type="other violations" incidents="11395" />
+        <crime type="criminal code traffic violations" incidents="17501" />
+        <crime type="impaired driving" incidents="13925" />
+        <crime type="other criminal code traffic violations" incidents="3576" />
+        <crime type="federal statute violations" incidents="34676" />
+        <crime type="drug violations" incidents="26385" />
+        <crime type="other federal statutes" incidents="8291" />
+    </region>
+    <region name="Yukon">
+        <population-millions>0.0364</population-millions>
+        <crime type="all violations" incidents="9447" />
+        <crime type="all criminal code violations (including traffic)" incidents="9166" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="8633" />
+        <crime type="violent criminal code violations" incidents="1509" />
+        <crime type="homicide" incidents="0" />
+        <crime type="attempted murder" incidents="1" />
+        <crime type="sexual assault" incidents="73" />
+        <crime type="assault" incidents="1012" />
+        <crime type="robbery" incidents="8" />
+        <crime type="criminal harassment" incidents="45" />
+        <crime type="uttering threats" incidents="241" />
+        <crime type="other violent violations" incidents="129" />
+        <crime type="property crime violations" incidents="3477" />
+        <crime type="breaking and entering" incidents="215" />
+        <crime type="theft of motor vehicle" incidents="191" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="24" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="976" />
+        <crime type="mischief" incidents="1914" />
+        <crime type="other property crime violations" incidents="157" />
+        <crime type="other criminal code violations" incidents="3647" />
+        <crime type="disturb the peace" incidents="2538" />
+        <crime type="administration of justice violations" incidents="951" />
+        <crime type="other violations" incidents="158" />
+        <crime type="criminal code traffic violations" incidents="533" />
+        <crime type="impaired driving" incidents="405" />
+        <crime type="other criminal code traffic violations" incidents="128" />
+        <crime type="federal statute violations" incidents="281" />
+        <crime type="drug violations" incidents="207" />
+        <crime type="other federal statutes" incidents="74" />
+    </region>
+    <region name="Northwest Territories">
+        <population-millions>0.0438</population-millions>
+        <crime type="all violations" incidents="21189" />
+        <crime type="all criminal code violations (including traffic)" incidents="20493" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="19924" />
+        <crime type="violent criminal code violations" incidents="3233" />
+        <crime type="homicide" incidents="2" />
+        <crime type="attempted murder" incidents="3" />
+        <crime type="sexual assault" incidents="173" />
+        <crime type="assault" incidents="2176" />
+        <crime type="robbery" incidents="24" />
+        <crime type="criminal harassment" incidents="75" />
+        <crime type="uttering threats" incidents="490" />
+        <crime type="other violent violations" incidents="290" />
+        <crime type="property crime violations" incidents="10533" />
+        <crime type="breaking and entering" incidents="600" />
+        <crime type="theft of motor vehicle" incidents="172" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="23" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="915" />
+        <crime type="mischief" incidents="8599" />
+        <crime type="other property crime violations" incidents="224" />
+        <crime type="other criminal code violations" incidents="6158" />
+        <crime type="disturb the peace" incidents="4891" />
+        <crime type="administration of justice violations" incidents="1009" />
+        <crime type="other violations" incidents="258" />
+        <crime type="criminal code traffic violations" incidents="569" />
+        <crime type="impaired driving" incidents="463" />
+        <crime type="other criminal code traffic violations" incidents="106" />
+        <crime type="federal statute violations" incidents="696" />
+        <crime type="drug violations" incidents="561" />
+        <crime type="other federal statutes" incidents="135" />
+    </region>
+    <region name="Nunavut">
+        <population-millions>0.0354</population-millions>
+        <crime type="all violations" incidents="12227" />
+        <crime type="all criminal code violations (including traffic)" incidents="11825" />
+        <crime type="all criminal code violations (excluding traffic)" incidents="11512" />
+        <crime type="violent criminal code violations" incidents="3082" />
+        <crime type="homicide" incidents="4" />
+        <crime type="attempted murder" incidents="2" />
+        <crime type="sexual assault" incidents="182" />
+        <crime type="assault" incidents="2122" />
+        <crime type="robbery" incidents="7" />
+        <crime type="criminal harassment" incidents="40" />
+        <crime type="uttering threats" incidents="478" />
+        <crime type="other violent violations" incidents="247" />
+        <crime type="property crime violations" incidents="4602" />
+        <crime type="breaking and entering" incidents="600" />
+        <crime type="theft of motor vehicle" incidents="128" />
+        <crime type="theft over $5000 (non-motor vehicle)" incidents="18" />
+        <crime type="theft under $5000 (non-motor vehicle)" incidents="417" />
+        <crime type="mischief" incidents="3332" />
+        <crime type="other property crime violations" incidents="107" />
+        <crime type="other criminal code violations" incidents="3828" />
+        <crime type="disturb the peace" incidents="2776" />
+        <crime type="administration of justice violations" incidents="877" />
+        <crime type="other violations" incidents="175" />
+        <crime type="criminal code traffic violations" incidents="313" />
+        <crime type="impaired driving" incidents="254" />
+        <crime type="other criminal code traffic violations" incidents="59" />
+        <crime type="federal statute violations" incidents="402" />
+        <crime type="drug violations" incidents="374" />
+        <crime type="other federal statutes" incidents="28" />
+    </region>
+</crime-in-canada>
